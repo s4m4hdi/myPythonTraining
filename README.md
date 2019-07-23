@@ -1,0 +1,2 @@
+# myPythonTraining
+Python code fragments
